@@ -1,0 +1,6 @@
+[ubuntu_servers]
+54.219.80.151 ansible_ssh_user=ubuntu ansible_ssh_user=ubuntu
+vpc1-instance-1 ansible_ssh_host=54.123.45.67 ansible_ssh_user=ubuntu
+vpc1-instance-2 ansible_ssh_host=ec2-hostname.compute.amazonaws.com ansible_ssh_user=ubuntu
+vpc2-instance-1 ansible_ssh_host=54.123.45.67 ansible_ssh_user=ubuntu
+vpc2-instance-2 ansible_ssh_host=54.123.45.67 ansible_ssh_user=ubuntu
